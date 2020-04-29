@@ -16,4 +16,8 @@ class Book
     @genre = genre
     GENRES << genre
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> e8e6d4a00cf8aa21884ba8e19aaa92ba3b910478
